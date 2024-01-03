@@ -7,3 +7,5 @@ I learned how to:
 - Check if a node is a root
 - Traverrse a node
 etc.
+###
+I learned the details, advantages and disadvantages of using trees as data structures.
